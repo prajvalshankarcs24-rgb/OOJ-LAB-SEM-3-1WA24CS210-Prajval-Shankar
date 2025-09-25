@@ -1,3 +1,5 @@
+ROOTS OF A QUADRATIC EQUATION-
+
 import java.util.Scanner;
 
 class Quad{
@@ -44,10 +46,17 @@ class QuadRun{
 	}
 }
 
+OUTPUT -
+Enter coefficients:
+2
+5
+2
+Roots are real and distinct
+root 1 = -0.5
+root 2 = -2.0
 
 
-
-
+PROGRAM TO CALCULATE THE VOLUME OF A BOX
 
 class box
 {	
@@ -73,3 +82,7 @@ class box_demo{
 		System.out.printf("Volume of Box b2 =", + b2.volume());
 	}
 }
+
+OUTPUT - 
+Volume of Box b1 = 6.0
+Volume of Box b2 = 12.0
